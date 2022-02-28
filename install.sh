@@ -1,23 +1,23 @@
 echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[1;32m'PHP AUTOMATION - SINCE ITS IMPOSSIBLE NOT TO HATE TO FORGET AN EXT'\033[0m' 
-echo"S"
+echo "S"
 sleep 0.1
-echo"Y"
+echo "Y"
 sleep 0.1
-echo"S"
+echo "S"
 sleep 0.1
-echo"T"
+echo "T"
 sleep 0.1
-echo"E"
+echo "E"
 sleep 0.1
-echo"M"
+echo "M"
 sleep 0.1
-echo"K"
+echo "K"
 sleep 0.1
-echo"e"
+echo "e"
 sleep 0.1
-echo"y"
+echo "y"
 sleep 0.1
-echo"y"
+echo "y"
 sleep 5
 sudo apt -y update && sudo apt -y
 sudo apt -y install software-properties-common &&
