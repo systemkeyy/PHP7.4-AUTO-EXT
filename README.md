@@ -16,7 +16,7 @@ sudo su
 ```
 
 ```
-git clone https://github.com/systemkeyy/aphp/ && cd aphp && chmod +x rpcX.pl && ./rpcX.pl
+git clone https://github.com/systemkeyy/aphp/ && cd aphp && chmod +x aphp.sh && ./aphp.sh
 ```
 
 **_SCRIPT BY SYSTEMKEYY_**
