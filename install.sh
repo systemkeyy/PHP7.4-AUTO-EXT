@@ -32,7 +32,8 @@ sudo apt -y install php7.4 &&
 echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[1;32m'Your current PHP Version is being checked'\033[0m' 
 echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[1;32m'Installing'\033[0m' 
 php -v &&
-sleep 3 
+sleep 3
+clear 
 read -p "Buy me a beer? Yes/No " prompt
 if [[ $prompt == "y" || $prompt == "Y" || $prompt == "yes" || $prompt == "Yes" ]]
 then
