@@ -16,7 +16,21 @@ sudo su
 ```
 
 ```
-git clone https://github.com/systemkeyy/aphp/ && cd aphp && chmod +x aphp.sh && ./aphp.sh
+git clone https://github.com/systemkeyy/aphp/ && cd aphp && chmod +x install.sh && ./install.sh
 ```
+--------------------------------------------------------------------------------------------------
 
-**_SCRIPT BY SYSTEMKEYY_**
+![KingSYSTEMKEYY](https://avatars.githubusercontent.com/u/74800251?v=4)
+
+**_SYSTEMKeyy_**
+
+
+
+-----------------------------------------------------
+```js
+// CONTACT AND PARTICIPATION
+// Discord: systemkeyy#0076
+// Discord Server: https://discord.gg/fFqJxxrMgD
+// Telegram: @systemkeyy
+// Email: systemkeyy@protonmail.com
+```
