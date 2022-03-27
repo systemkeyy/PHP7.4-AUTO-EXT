@@ -16,7 +16,7 @@ sudo su
 ```
 
 ```
-git clone https://github.com/systemkeyy/aphp/ && cd aphp && chmod +x install.sh && ./install.sh
+git clone https://github.com/systemkeyy/PHP7.4-AUTO-EXT/ && cd PHP7.4-AUTO-EXT && chmod +x install.sh && ./install.sh
 ```
 --------------------------------------------------------------------------------------------------
 
